@@ -5,6 +5,6 @@
 
 ## 📈 GitHub Stats
 
-[![YourUsername's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bishaltwr&theme=radical)](https://github.com/[YourUsername])
+[![bishaltwr's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bishaltwr&theme=radical&date=${new Date().getTime()})](https://github.com/bishaltwr)
 
 > I specialize in nothing. I just love learning. All those contributions => Notes that I might never get back to again 😂😂
